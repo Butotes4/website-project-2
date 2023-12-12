@@ -1,0 +1,67 @@
+.a{
+    text-decoration: none;
+    background-color: #006445;
+    color: #dbff4a;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: #006445;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    margin: -10px;
+}
+.logo{
+    height: 80px;
+    margin-left: -80px;
+}
+body{
+    background-color: rgb(4, 48, 4);
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    width: 270px;
+    height: 500px;
+    padding: 15px;
+    background-color: rgb(40, 139, 40);
+    margin-left: 600px;
+    margin-top: 50px;
+    border-radius: 12px;
+
+}
+
+.contact2{
+    margin-top: 35px;
+}
+
+.contactinhoud{
+    width: 219px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border-style: none;
+    
+}
+.Write{
+    width: 219px;
+    margin-left: 11px;
+    padding-bottom: 90px;
+    padding-top: 10px;
+    padding-left: 5px;
+    margin-top: 10px;
+    border-style: none;
+    border-radius: 10px;
+}
+.contactme{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: -10px;
+    color: #dbff4a;
+}
+.submit{
+    margin-top: 10px;
+    margin-left: 10px;
+}
